@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @Crispinjr Official 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- Pro MLBB Players ...
+apt update && apt upgrade -y
 
-<!---
-CrispBa/CrispBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+415
+
+apt install git
+
+apt install python2
+
+git clone https://github.com/derv82/wifite.git
+
+Is
+
+cd wifite
+
+python2 wifite.py
+████████▀▀▀████
+████████────▀██
+████████──█▄──█
+███▀▀▀██──█████
+█▀──▄▄██──█████
+█──█████──█████
+█▄──▀▀▀──▄█████
+███▄▄▄▄▄███████ Crispinjr
